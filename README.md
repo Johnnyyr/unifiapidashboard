@@ -18,6 +18,7 @@ To access the localized API documentation (specific to your UniFi Network versio
 - [ ] Create examples
 - [ ] Create instructions
 - [ ] Create Github pages with all endpoints
+- [ ] Create dashboard with Python and Streamlit
 
 ## Link list
 
